@@ -3,7 +3,8 @@
 
 ## Description 
  - Method : POST
-| POST|/supplier/\<supplier_id\>/giro | Takes array of acconts and replace existing data with new data |  
+ - URL: /supplier/\<supplier_id\>/giro 
+ - Takes array of acconts and replace existing data with new data |  
  ``` 
   [ 
     {

@@ -1,9 +1,7 @@
 
 | Method | URL | Parameters |
 |---|---|---|
-| POST|[/supplier/\<supplier_id\>/giro |
-    
-    ```
+| POST|[/supplier/\<supplier_id\>/giro | ``` 
     [
         {
             "accountNumber" : "String",
